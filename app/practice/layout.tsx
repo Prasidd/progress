@@ -10,6 +10,7 @@ export default function PracticeLayout({ children }: { children: React.ReactNode
         <Link href="/practice/tier-1-js/fetch-post">2. Fetch POST</Link>
          <Link href="/practice/tier-1-js/fetch-post-2">2b. Fetch POST</Link>
         <Link href="/practice/tier-1-js/filter-transform">3. Filter + transform</Link>
+                <Link href="/practice/tier-1-js/filter-transform-2">3b. Filter + transform</Link>
         <Link href="/practice/tier-1-js/fake-login">4. Fake login</Link>
         <Link href="/practice/tier-1-js/base64-demo">5. Base64</Link>
         <Link href="/practice/tier-1-js/expiry-check">7. Expiry check</Link>
