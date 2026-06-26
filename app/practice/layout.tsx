@@ -12,7 +12,7 @@ export default function PracticeLayout({ children }: { children: React.ReactNode
         <Link href="/practice/tier-1-js/filter-transform">3. Filter + transform</Link>
                 <Link href="/practice/tier-1-js/filter-transform-2">3b. Filter + transform</Link>
         <Link href="/practice/tier-1-js/fake-login">4. Fake login</Link>
-        <Link href="/practice/tier-1-js/base64-demo">5. Base64</Link>
+        <Link href="/practice/tier-1-js/base-demo">5. Base64</Link>
         <Link href="/practice/tier-1-js/expiry-check">7. Expiry check</Link>
         <strong>Tier 2 — Context</strong>
         <Link href="/practice/tier-2-context/theme-demo">8. Theme</Link>
