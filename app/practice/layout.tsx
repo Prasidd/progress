@@ -8,6 +8,7 @@ export default function PracticeLayout({ children }: { children: React.ReactNode
         <Link href="/practice/tier-1-js/fetch-get">1. Fetch GET</Link>
         <Link href="/practice/tier-1-js/fetch-get-2">1b. Fetch GET (yours)</Link>
         <Link href="/practice/tier-1-js/fetch-post">2. Fetch POST</Link>
+         <Link href="/practice/tier-1-js/fetch-post-2">2b. Fetch POST</Link>
         <Link href="/practice/tier-1-js/filter-transform">3. Filter + transform</Link>
         <Link href="/practice/tier-1-js/fake-login">4. Fake login</Link>
         <Link href="/practice/tier-1-js/base64-demo">5. Base64</Link>
